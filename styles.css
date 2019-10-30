@@ -1,0 +1,62 @@
+.shopping{
+    color: green!important;
+}
+
+.aaaa{
+    background-color: #353a40!important;
+}
+
+.ddd{
+    color: white!important;
+}
+
+.ss{
+    color: #dbdcde!important;
+}
+
+.dropdown{
+    color:#dbdcde!important; 
+}
+
+#btnDelete{
+    border-radius: 50%;
+    color: white;
+    background-color: grey;
+    
+}
+h5{
+    margin-top: 30%;
+}
+
+.btn1{
+    margin-top: 32%;
+    border-radius: 50%;
+    color: white;
+    background-color: green;
+}
+
+#btnAdd{
+    background-color: green;
+    border-radius: 50%;
+    color: white;
+    
+
+}
+
+#btnRemove{
+    background-color: green;
+    border-radius: 50%;
+    color: white;
+
+}
+.shoppingCart{
+    background-color: #353a40!important;
+}
+
+.Total{
+    color: white!important;
+}
+
+p{
+    font-weight: bold;
+}
